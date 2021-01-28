@@ -1,4 +1,4 @@
-## MMM-EasyBack
+## MMM-EasyBackMute
 
 The easiest way to use video and pictures as a background on your mirror.
 
